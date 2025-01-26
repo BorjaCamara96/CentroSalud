@@ -1,0 +1,8 @@
+####### N3R #######
+# FECHA: 05/07/2024 #
+# HORA: 10:30 #
+# Nº PACIENTE: 44038 #
+# NOMBRE PACIENTE: PEDRO #
+# Nº MEDICO: 334745 #
+# NOMBRE MEDICO: JUAN #
+###################
